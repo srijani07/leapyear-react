@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.result-display {
+  margin: 1rem 1rem;
+}
+
+.check-button {
+  margin: 1rem 1rem;
+}
